@@ -1,0 +1,10 @@
+C:\Users\senad\source\repos\AracSatimApp\AracSatimApp\bin\Debug\AracSatimApp.exe.config
+C:\Users\senad\source\repos\AracSatimApp\AracSatimApp\bin\Debug\AracSatimApp.exe
+C:\Users\senad\source\repos\AracSatimApp\AracSatimApp\bin\Debug\AracSatimApp.pdb
+C:\Users\senad\source\repos\AracSatimApp\AracSatimApp\obj\Debug\AracSatimApp.csprojAssemblyReference.cache
+C:\Users\senad\source\repos\AracSatimApp\AracSatimApp\obj\Debug\AracSatimApp.frmAracApp.resources
+C:\Users\senad\source\repos\AracSatimApp\AracSatimApp\obj\Debug\AracSatimApp.Properties.Resources.resources
+C:\Users\senad\source\repos\AracSatimApp\AracSatimApp\obj\Debug\AracSatimApp.csproj.GenerateResource.cache
+C:\Users\senad\source\repos\AracSatimApp\AracSatimApp\obj\Debug\AracSatimApp.csproj.CoreCompileInputs.cache
+C:\Users\senad\source\repos\AracSatimApp\AracSatimApp\obj\Debug\AracSatimApp.exe
+C:\Users\senad\source\repos\AracSatimApp\AracSatimApp\obj\Debug\AracSatimApp.pdb
